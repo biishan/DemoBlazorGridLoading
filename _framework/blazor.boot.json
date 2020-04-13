@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Blazor.CSBDemo.dll": "sha256-cS\/VM\/xz2bv7b3h1yRuY0hIouKyqzvBlTraGrJ8ZES0=",
+      "Blazor.CSBDemo.dll": "sha256-oHcVAg\/QjnejNwDZI9VUtYeygQAY3JA9uyPuGPZ8Bf0=",
       "Microsoft.AspNetCore.Blazor.HttpClient.dll": "sha256-1xfOnnlZZg19s2R3vH\/UX9m3dprauIFLdeaYzgmiwc0=",
       "System.Text.Json.dll": "sha256-pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-fom8\/iCIAJjiOFGTfsevXMd0zQP6\/nFmuTkPAk1OBqs=",
